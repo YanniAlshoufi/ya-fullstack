@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ya.Fullstack.Blazor</id>
+    <version>1.0.0</version>
+    <title>YA ASP.NET Fullstack Blazor Web Application</title>
+    <authors>Yanni Alshoufi</authors>
+    <description>Creates a Fullstack Blazor Web Application Using WASM, ASP.NET Core Controllers, FluentValidation, Mapperly, Swagger, and EF Core</description>
+    <tags>Blazor, Fullstack, WebAssembly, ASP.NET Core, FluentValidation, Mapperly, Swagger, EF Core</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/.template.config/template.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/.template.config/template.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/App.razor" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/App.razor" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Client.csproj" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Client.csproj" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Layout/MainLayout.razor" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Layout/MainLayout.razor" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Layout/MainLayout.razor.css" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Layout/MainLayout.razor.css" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/package-lock.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/package-lock.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/package.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/package.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Pages/Index.razor" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Pages/Index.razor" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Program.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Program.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Properties/launchSettings.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Properties/launchSettings.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Styles/app.css" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Styles/app.css" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/tailwind.config.js" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/tailwind.config.js" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Watch/run.sh" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Watch/run.sh" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Watch/tailwind.sh" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/Watch/tailwind.sh" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/css/app.css" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/css/app.css" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/favicon.png" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/favicon.png" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/index.html" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/wwwroot/index.html" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/_Imports.razor" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Client/_Imports.razor" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Data.csproj" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Data.csproj" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Database/database" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Database/database" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/DbContexts/UsersContext.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/DbContexts/UsersContext.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630130751_Initial.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630130751_Initial.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630130751_Initial.Designer.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630130751_Initial.Designer.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630131509_Init.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630131509_Init.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630131509_Init.Designer.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/20240630131509_Init.Designer.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/UsersContextModelSnapshot.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Migrations/UsersContextModelSnapshot.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Scripts/db-update.sh" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Scripts/db-update.sh" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Scripts/migrate.sh" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Data/Scripts/migrate.sh" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/appsettings.Development.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/appsettings.Development.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/appsettings.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/appsettings.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Controllers/UsersController.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Controllers/UsersController.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Program.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Program.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Properties/launchSettings.json" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Properties/launchSettings.json" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/requests.http" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/requests.http" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Server.csproj" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Server/Server.csproj" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Common/IAssemblyMarker.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Common/IAssemblyMarker.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Dtos/UserDto.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Dtos/UserDto.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/DtoValidators/UserDtoValidator.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/DtoValidators/UserDtoValidator.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Mappers/UserMapper.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Mappers/UserMapper.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Models/User.cs" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Data/Models/User.cs" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Shared.csproj" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/Shared/Shared.csproj" />
+    <file src="/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/{{{Ya.FullstackBlazor.InSource}}}.sln" target="content/templates/{{{Ya.FullstackBlazor.InSource}}}/{{{Ya.FullstackBlazor.InSource}}}.sln" />
+  </files>
+</package>

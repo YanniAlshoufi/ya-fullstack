@@ -1,0 +1,22 @@
+/Users/yanni/Templates/CSharp /bin/Release/net8.0/YaFullstackBlazor.deps.json
+/Users/yanni/Templates/CSharp /bin/Release/net8.0/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp /bin/Release/net8.0/YaFullstackBlazor.pdb
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.AssemblyInfoInputs.cache
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.AssemblyInfo.cs
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.csproj.CoreCompileInputs.cache
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/refint/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/YaFullstackBlazor.pdb
+/Users/yanni/Templates/CSharp /obj/Release/net8.0/ref/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp/bin/Release/net8.0/YaFullstackBlazor.deps.json
+/Users/yanni/Templates/CSharp/bin/Release/net8.0/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp/bin/Release/net8.0/YaFullstackBlazor.pdb
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.AssemblyInfoInputs.cache
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.AssemblyInfo.cs
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.csproj.CoreCompileInputs.cache
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/refint/YaFullstackBlazor.dll
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/YaFullstackBlazor.pdb
+/Users/yanni/Templates/CSharp/obj/Release/net8.0/ref/YaFullstackBlazor.dll
