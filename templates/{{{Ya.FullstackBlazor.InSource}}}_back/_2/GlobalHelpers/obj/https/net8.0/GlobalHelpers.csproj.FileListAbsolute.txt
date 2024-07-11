@@ -1,0 +1,12 @@
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/bin/https/net8.0/GlobalHelpers.deps.json
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/bin/https/net8.0/GlobalHelpers.dll
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/bin/https/net8.0/GlobalHelpers.pdb
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.AssemblyInfoInputs.cache
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.AssemblyInfo.cs
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.csproj.CoreCompileInputs.cache
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.sourcelink.json
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.dll
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/refint/GlobalHelpers.dll
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/GlobalHelpers.pdb
+/Users/yanni/Templates/CSharp/templates/{{{Ya.FullstackBlazor.InSource}}}/GlobalHelpers/obj/https/net8.0/ref/GlobalHelpers.dll
