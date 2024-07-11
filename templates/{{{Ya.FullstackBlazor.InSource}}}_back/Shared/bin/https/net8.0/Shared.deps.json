@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shared/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.9.2",
+          "GlobalHelpers": "1.0.0",
+          "OneOf": "3.0.271",
+          "OneOf.SourceGenerator": "3.0.271",
+          "Riok.Mapperly": "4.0.0-next.1"
+        },
+        "runtime": {
+          "Shared.dll": {}
+        }
+      },
+      "FluentValidation/11.9.2": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.9.2.0"
+          }
+        }
+      },
+      "OneOf/3.0.271": {
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OneOf.SourceGenerator/3.0.271": {},
+      "Riok.Mapperly/4.0.0-next.1": {
+        "runtime": {
+          "lib/netstandard2.0/Riok.Mapperly.Abstractions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "GlobalHelpers/1.0.0": {
+        "runtime": {
+          "GlobalHelpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/11.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XeHp9LvFvu1fsQ/NvDCymV02GOCB1nz7ZUhfpI3uMhCcHTkV1K5bMkv+Nc/kuNYyAsX5+5bcmUanIEMd5QN+Eg==",
+      "path": "fluentvalidation/11.9.2",
+      "hashPath": "fluentvalidation.11.9.2.nupkg.sha512"
+    },
+    "OneOf/3.0.271": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pqpqeK8xQGggExhr4tesVgJkjdn+9HQAO0QgrYV2hFjE3y90okzk1kQMntMiUOGfV7FrCUfKPaVvPBD4IANqKg==",
+      "path": "oneof/3.0.271",
+      "hashPath": "oneof.3.0.271.nupkg.sha512"
+    },
+    "OneOf.SourceGenerator/3.0.271": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I7e5kx5prSV99g+rM/xO5KMhwBQL/b+NlUY76RhbutXJ0tgiuMoqgOFnlTHOxCLrlKmwaMzp3VI8oz05PSlcIA==",
+      "path": "oneof.sourcegenerator/3.0.271",
+      "hashPath": "oneof.sourcegenerator.3.0.271.nupkg.sha512"
+    },
+    "Riok.Mapperly/4.0.0-next.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1HwtTKcSnCDJGD6Ag3owVQgsPzMYVP92cf9KDNi8j1IE4I/+f+droFECTzlvpE3vcjHKal56AS/KIfu5mwn92Q==",
+      "path": "riok.mapperly/4.0.0-next.1",
+      "hashPath": "riok.mapperly.4.0.0-next.1.nupkg.sha512"
+    },
+    "GlobalHelpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

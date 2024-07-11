@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Creates a Fullstack Blazor Web Application Using WASM, ASP.NET Core Controllers, " +
     "FluentValidation, Mapperly, Swagger, and EF Core")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3126b017ae2da90b840cc54e7d75a0315566b465")]
 [assembly: System.Reflection.AssemblyProductAttribute("YaFullstackBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YaFullstackBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

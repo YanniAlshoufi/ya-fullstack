@@ -1,0 +1,27 @@
+@page "/"
+
+<div class="flex flex-col items-center gap-5 mt-10 dark:text-gray-100">
+    <h3 class="text-5xl text-center">Home</h3>
+    
+    <p class="font-mono text-red-200">This is a testing page.</p>
+    
+    <p class="text-center text-9xl font-extralight">@_count</p>
+    
+    <button 
+        class="px-5 py-3 rounded active:scale-95 text-3xl
+               ring ring-black dark:ring-blue-400 dark:text-blue-400 
+               hover:bg-black hover:text-gray-100 
+               dark:hover:bg-blue-400 dark:hover:text-gray-950"
+        @onmousedown="IncreaseCount">Increase</button>
+</div>
+
+
+@code {
+    private int _count = 1;
+    
+    void IncreaseCount()
+    {
+        _count++;
+        StateHasChanged(); // Implicit with @onclick, thus optional
+    }
+}
