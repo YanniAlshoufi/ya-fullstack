@@ -1,11 +1,10 @@
-# YA Fullstack Blazor App
-
-A Fullstack Blazor Web Application Template Using WASM, ASP.NET Core Controllers, FluentValidation, Mapperly, Swagger, and EF Core.
+# YA Fullstack App
 
 ## Installation
 
 ~~~
-dotnet install ya-fullstack
+cd `./templates/{{{YaFullstack.InSource}}}`
+dotnet new install .
 ~~~
 
 ## Usage
