@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Yanni Alshoufi",
+  "classifications": [ "Web", "MVC" ],
+  "identity": "Ya.Fullstack",
+  "name": "YA ASP.NET and SvelteKit Fullstack Web Application",
+  "description": "Creates a Fullstack Web Application ASP.NET Core Controllers, SvelteKit, FluentValidation, Mapperly, Swagger, Super Forms, and EF Core",
+  "shortName": "ya-fullstack",
+  "sourceName": "___Ya.Fullstack.InSource___",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true
+}
