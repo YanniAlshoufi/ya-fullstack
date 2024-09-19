@@ -3,7 +3,7 @@
 ## Installation
 
 ~~~
-cd `./templates/{{{YaFullstack.InSource}}}`
+cd `./templates/___YaFullstack.InSource___`
 dotnet new install .
 ~~~
 
